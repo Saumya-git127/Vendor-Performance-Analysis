@@ -1,5 +1,8 @@
 # Vendor-Performance-Analysis
 
+## Project Overview
+This project addresses critical inventory and sales management challenges in the retail/wholesale industry by analyzing  transaction records to optimize vendor relationships and profitability. Through an automated ETL pipeline that processes sales, purchases, and inventory data into a SQLite database, the analysis solves complex business problems. The solution includes Python-based data processing, exploratory data analysis, correlation analysis, confidence interval estimation, hypothesis testing, and an interactive Power BI dashboard with DAX calculations for real-time monitoring, enabling data-driven decisions for vendor diversification, pricing optimization, and inventory management strategies.
+
 ## Business Problem
 
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency. The goal of this analysis is to:
